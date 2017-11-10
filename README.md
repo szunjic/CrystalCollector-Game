@@ -1,6 +1,6 @@
 # CrystalCollector-Game
 
-#### HW#4 for The Coding Bootcamp at UT Austin 
+#### HW #4 for The Coding Bootcamp at UT Austin 
 
 Interactive game for web browsers.
 
